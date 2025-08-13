@@ -1,0 +1,5 @@
+#!/bin/bash
+# ~/ai-assistant/assistant.sh
+
+cd ~/ai-assistant
+python3 agent.py

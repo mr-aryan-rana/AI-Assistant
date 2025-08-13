@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+huggingface-hub
+sentencepiece
+diffusers
+bitsandbytes
+langchain
+openai
+psutil
+rich
